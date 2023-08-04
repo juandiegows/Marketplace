@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Groups Pricing\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-16 13:00+0100\n"
+"PO-Revision-Date: 2023-03-16 13:01+0100\n"
+"Last-Translator: eggemplo <eggemplo@gmail.com>\n"
+"Language-Team: eggemplo <info@eggemplo.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../core/class-woonotifyupdatedproduct.php:46
+#: ../woo-notify-updated-product.php:103 ../woo-notify-updated-product.php:104
+msgid "Notify Updated Product"
+msgstr "Notify Updated Product"
+
+#: ../core/class-woonotifyupdatedproduct.php:59
+msgid "Notify to the customers about this update"
+msgstr "Notificar a los compradores sobre esta actualización"
+
+#: ../core/class-woonotifyupdatedproduct.php:66
+msgid "Send notifications:"
+msgstr "Enviar notificaciones:"
+
+#: ../core/class-woonotifyupdatedproduct.php:69
+msgid "Notifications will be sent when you click on 'Update' button."
+msgstr ""
+"Las notificaciones serán enviadas cuando haga click en el botón de "
+"‘Actualizar’."
+
+#: ../core/class-woonotifyupdatedproduct.php:73
+#: ../woo-notify-updated-product.php:209
+msgid "Subject:"
+msgstr "Asunto:"
+
+#: ../core/class-woonotifyupdatedproduct.php:80
+msgid "If empty, default title value will be used."
+msgstr "Si lo deja vacío, se usará el título por defecto."
+
+#: ../core/class-woonotifyupdatedproduct.php:85
+msgid "Email content:"
+msgstr "Contenido del email:"
+
+#: ../core/class-woonotifyupdatedproduct.php:89
+msgid "If empty, default email content value will be used."
+msgstr "Si lo deja vacío, se usará el contenido por defecto."
+
+#: ../core/class-wordpress-woonotifyupdatedproduct.php:27
+msgid "Products notifications"
+msgstr "Notificaciones de productos"
+
+#: ../core/class-wordpress-woonotifyupdatedproduct.php:30
+msgid "Notify me"
+msgstr "Avísame me"
+
+#: ../core/class-wordpress-woonotifyupdatedproduct.php:33
+msgid "Yes"
+msgstr "Sí"
+
+#: ../core/class-wordpress-woonotifyupdatedproduct.php:34
+msgid "No"
+msgstr "No"
+
+#: ../core/class-wordpress-woonotifyupdatedproduct.php:36
+msgid "Notify me when my products are updated."
+msgstr "Notifícame cuando mis productos son actualizados."
+
+#: ../woo-notify-updated-product.php:66
+msgid ""
+"The <strong>Woocommerce Notify Updated Product</strong> plugin requires the "
+"<a href=\"http://wordpress.org/extend/plugins/woocommerce\" "
+"target=\"_blank\">Woocommerce</a> plugin to be activated."
+msgstr ""
+"El plugin <strong>Woocommerce Notify Updated Product</strong> requiere el "
+"plugin <a href=\"http://wordpress.org/extend/plugins/woocommerce\" "
+"target=\"_blank\">Woocommerce</a> para ser activado."
+
+#: ../woo-notify-updated-product.php:114
+msgid "Woocommerce Notify Updated Product"
+msgstr "Woocommerce Notify Updated Product"
+
+#: ../woo-notify-updated-product.php:119
+msgid "Saved"
+msgstr "Guardado"
+
+#: ../woo-notify-updated-product.php:156
+msgid "Enable:"
+msgstr "Activar:"
+
+#: ../woo-notify-updated-product.php:173
+msgid "Default user status value:"
+msgstr "Valor por defecto estado de los usuarios:"
+
+#: ../woo-notify-updated-product.php:185
+msgid "Enabled"
+msgstr "Activado"
+
+#: ../woo-notify-updated-product.php:186
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: ../woo-notify-updated-product.php:189
+msgid "Default notifications status on products."
+msgstr "Estado por defecto de las notificaciones de productos."
+
+#: ../woo-notify-updated-product.php:194
+msgid "From email:"
+msgstr "Desde el email:"
+
+#: ../woo-notify-updated-product.php:204
+msgid "If empty, admin email will be used."
+msgstr "Si lo deja vacío, se usará el email del administrador."
+
+#: ../woo-notify-updated-product.php:219
+msgid "If empty, blog name will be used."
+msgstr "Si lo deja vacío, se usará el nombre del blog."
+
+#: ../woo-notify-updated-product.php:224
+msgid "Default email content:"
+msgstr "Contenido del email por defecto:"
+
+#: ../woo-notify-updated-product.php:228
+msgid "You can use [product_name] to display the product name."
+msgstr "Puedes usar [product_name] para mostrar el nombre del producto."
+
+#: ../woo-notify-updated-product.php:229
+msgid "You can use [product_url] to display the product url."
+msgstr "Puedes usar [product_url] para mostrar la url del producto."
+
+#: ../woo-notify-updated-product.php:235
+msgid "Save"
+msgstr "Guardar"
+
+#~ msgid "Woocommerce Group Pricing"
+#~ msgstr "Woocommerce Group Pricing"
+
+#~ msgid ""
+#~ "Leave empty if no custom group discount should be applied to this "
+#~ "category."
+#~ msgstr "Deje vacío si no desea un valor personalizado para esta categoría."
+
+#~ msgid "Groups Pricing"
+#~ msgstr "Group Pricing"
+
+#~ msgid ""
+#~ "Leave empty if no custom group discount should be applied to this product "
+#~ "(default setting)."
+#~ msgstr ""
+#~ "Deje vacío si no desea un descuento personalizado para este producto (se "
+#~ "usará el valor por defecto)."
+
+#~ msgid ""
+#~ "The <strong>Woocommerce Group Pricing</strong> plugin requires the <a "
+#~ "href=\"http://wordpress.org/extend/plugins/groups\" "
+#~ "target=\"_blank\">Groups</a> plugin to be activated."
+#~ msgstr ""
+#~ "El plugin <strong>Woocommerce Group Pricing</strong> requiere <a "
+#~ "href=\"http://wordpress.org/extend/plugins/groups\" "
+#~ "target=\"_blank\">Groups</a> para funcionar."
+
+#~ msgid ""
+#~ "The <strong>Woocommerce Group Pricing</strong> plugin requires the <a "
+#~ "href=\"http://wordpress.org/extend/plugins/woocommerce\" "
+#~ "target=\"_blank\">Woocommerce</a> plugin to be activated."
+#~ msgstr ""
+#~ "El plugin <strong>Woocommerce Group Pricing</strong> requiere <a "
+#~ "href=\"http://wordpress.org/extend/plugins/woocommerce\" "
+#~ "target=\"_blank\">Woocommerce</a> para funcionar."
+
+#~ msgid "Group Pricing"
+#~ msgstr "Group Pricing"
+
+#~ msgid "Products discount method:"
+#~ msgstr "Método de descuento:"
+
+#~ msgid "Apply to:"
+#~ msgstr "Aplicar a:"
+
+#~ msgid "Groups:"
+#~ msgstr "Grupos:"
+
+#~ msgid "eShop2MailChimp"
+#~ msgstr "eShop2MailChimp"
+
+#~ msgid "eShop 2 MailChimp"
+#~ msgstr "eShop 2 MailChimp"
+
+#~ msgid "API Key:"
+#~ msgstr "API Key:"
+
+#~ msgid ""
+#~ "MailChimp API KEY. You can get it in MailChimp: Account -> API Keys & "
+#~ "Authorized Apps "
+#~ msgstr ""
+#~ "API KEY de Mailchimp. Puede conseguirla dentro de tu cuenta de Mailchimp: "
+#~ "Mi cuenta -> API Keys"
+
+#~ msgid "List name:"
+#~ msgstr "Nombre de la lista:"
+
+#~ msgid "Subgroups name:"
+#~ msgstr "Nombre de los subgrupos:"
+
+#~ msgid "Comma separated subgroups."
+#~ msgstr "Subgrupos separados por comas."
+
+#~ msgid "Opt-in"
+#~ msgstr "Opt-in"
+
+#~ msgid "Signup form title:"
+#~ msgstr "Título del formulario:"
+
+#~ msgid "Newsletter"
+#~ msgstr "Boletín de noticias"
+
+#~ msgid "Signup form text:"
+#~ msgstr "Texto del formulario:"
+
+#~ msgid "Subscribe me to newsletter."
+#~ msgstr "Suscríbeme al boletín de noticias."
+
+#~ msgid "Opt-in confirmation email:"
+#~ msgstr "Opt-in email de confirmación:"
+
+#~ msgid "YES"
+#~ msgstr "SI"
+
+#~ msgid "NO"
+#~ msgstr "NO"
+
+#~ msgid ""
+#~ "Control whether a double opt-in confirmation message is sent. Abusing "
+#~ "this may cause your mailchimp account to be suspended."
+#~ msgstr ""
+#~ "Un mensaje de confirmación será enviado a los usuarios. Si abusa de no "
+#~ "usar confirmaciones, su cuenta de mailchimp puede ser suspendida por "
+#~ "considerarle spam."
+
+#~ msgid "Subscribed"
+#~ msgstr "Suscrito"
+
+#~ msgid "Not subscribed"
+#~ msgstr "No suscrito"
+
+#~ msgid "Groups to MailChimp"
+#~ msgstr "Groups to MailChimp"
+
+#~ msgid "Need confirm:"
+#~ msgstr "Necesita confirmación:"
+
+#~ msgid "Synchronize"
+#~ msgstr "Sincronizar"
+
+#~ msgid ""
+#~ "Use this for synchronize existing users in website with mailchimp. If the "
+#~ "user has not subscribed, then he will not be synchronized."
+#~ msgstr ""
+#~ "Úsalo para sincronizar los usuarios ya existentes con Mailchimp. Si el "
+#~ "usuario no se ha suscrito, entonces no será sincronizado."
+
+#~ msgid "Subscribe me to newsletter"
+#~ msgstr "Suscríbeme al boletín de noticias"
+
+#~ msgid "Use roles as subgroups:"
+#~ msgstr "Usar roles como subgrupos:"
+
+#~ msgid ""
+#~ "Creates as many subgroups as there are roles (if checked, \"Subgroup "
+#~ "name\" is ignored)."
+#~ msgstr ""
+#~ "Crea tantos subgrupos como roles tienen los usuarios (la opción de "
+#~ "\"Nombre del subgrupo\" será ignorada)."

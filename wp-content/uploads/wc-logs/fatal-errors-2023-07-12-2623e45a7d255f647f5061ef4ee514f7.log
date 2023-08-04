@@ -1,0 +1,2 @@
+2023-07-12T20:16:35+00:00 CRITICAL Out of memory (allocated 174063616) (tried to allocate 20480 bytes) en D:\Projects\Laravel\Marketplace\wp-includes\functions.php en la línea 649
+
